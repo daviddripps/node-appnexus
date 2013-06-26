@@ -1,0 +1,29 @@
+{
+  "name": "appnexus",
+  "author": "David Dripps <david.dripps@gmail.com>",
+  "version": "0.1.0",
+  "description": "provides access to the AppNexus API from NodeJS",
+  "homepage": "http://www.daviddripps.com/portfolio-item/appnexus-api-client-for-nodejs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daviddripps/node-appnexus.git"
+  },
+  "private": false,
+  "keywords": [
+    "AppNexus",
+    "advertising"
+  ],
+  "engines": {
+    "node": ">= 0.7.0"
+  },
+  "dependencies": {
+    "node-extend": "~0.2.0",
+    "request": "~2.21.0"
+  },
+  "devDependencies": {
+    "buster": "~0.6.12"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/buster-test"
+  }
+}
