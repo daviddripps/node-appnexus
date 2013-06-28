@@ -1,7 +1,7 @@
 {
   "name": "appnexus",
   "author": "David Dripps <david.dripps@gmail.com>",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "provides access to the AppNexus API from NodeJS",
   "homepage": "http://www.daviddripps.com/portfolio-item/appnexus-api-client-for-nodejs",
   "repository": {
@@ -17,8 +17,8 @@
     "node": ">= 0.7.0"
   },
   "dependencies": {
-    "node-extend": "~0.2.0",
-    "request": "~2.21.0"
+    "request": "~2.21.0",
+    "extend": "~1.1.3"
   },
   "devDependencies": {
     "buster": "~0.6.12"
