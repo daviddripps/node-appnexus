@@ -1,7 +1,7 @@
 {
   "name": "appnexus",
   "author": "David Dripps <david.dripps@gmail.com>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "provides access to the AppNexus API from NodeJS",
   "homepage": "http://www.daviddripps.com/portfolio-item/appnexus-api-client-for-nodejs",
   "repository": {
